@@ -141,3 +141,28 @@ footer {
     color: #aaa;
     margin: 0;
 }
+.trust-box{
+    margin-top:30px;
+    background:#111;
+    border:1px solid #f5c542;
+    padding:20px;
+    border-radius:12px;
+    max-width:600px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.trust-box h3{
+    color:#f5c542;
+    margin-bottom:15px;
+}
+
+.trust-box ul{
+    list-style:none;
+    padding:0;
+}
+
+.trust-box li{
+    margin:10px 0;
+    color:#ddd;
+}
